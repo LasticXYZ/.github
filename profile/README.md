@@ -17,11 +17,6 @@ Community involvement is paramount for our success! If you're keen on contributi
 - **About**: Lastic’s user interface, crucial for providing real-time coretime data and sharing insights.
 - **Link**: [LasticUI Repository](https://github.com/LasticXYZ/LasticUI)
 
-### 📝 Lastic Repository
-- **About**: Houses our team's brainstorming sessions, preliminary whitepapers, and main website frontend designs.
-- **Link**: [Lastic Repository](https://github.com/LasticXYZ/Lastic)
-- **Note**: Currently private, but it will be public soon.
-
 ## 📌 Key Links
 
 - **Website**: [lastic.xyz](https://www.lastic.xyz/)
